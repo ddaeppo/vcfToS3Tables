@@ -16,4 +16,5 @@ pip install -r requirements.txt
 temp_s3dir="s3://vcf-bucket-395965142574/VCF/FILE1/"
 out_s3dir="s3://vcf-bucket-395965142574/VCF/FILE3/"
 
+## 프로그램 수행
 ./spark.sh vcf_process.py s3://1000genomes-dragen/data/dragen-3.5.7b/hg38_altaware_nohla-cnv-anchored/additional_698_related/NA19983/NA19983.hard-filtered.vcf.gz
