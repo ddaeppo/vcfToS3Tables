@@ -1,4 +1,13 @@
-## 프로그램
+## 환경설정
+  S3 Tables 설정
+  S3 buck 생성 및 directory 생성
+    s3://vcf-bucket-395965142574/VCF/FILE1/
+
+    s3://vcf-bucket-395965142574/VCF/FILE3/
+    
+  EMR on EC2     
+
+## clone
 
   sudo yum install git -y
 
