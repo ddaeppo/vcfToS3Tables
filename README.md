@@ -1,12 +1,12 @@
 ## 환경설정
-  S3 Tables 설정
-  S3 buck 생성 및 directory 생성
+  1. S3 Tables 설정
+  2. S3 buck 생성 및 directory 생성
     
     s3://vcf-bucket-395965142574/VCF/FILE1/
 
     s3://vcf-bucket-395965142574/VCF/FILE3/
     
-  EMR on EC2     
+  3. EMR on EC2 설치     
 
 ## clone
 
