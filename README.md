@@ -7,7 +7,9 @@
     s3://vcf-bucket-395965142574/VCF/FILE3/
     
   3. EMR on EC2 설치
+     
      primary - m5.xlarge
+
      core - c5.24xlarge
 
 
