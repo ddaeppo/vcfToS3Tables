@@ -12,7 +12,7 @@ chmod +x *.sh
 
 pip install -r requirements.txt
 
-# vcf_process.py 화일의 아래내용 수정
+### vcf_process.py 화일의 아래내용 수정
 temp_s3dir="s3://vcf-bucket-395965142574/VCF/FILE1/"
 out_s3dir="s3://vcf-bucket-395965142574/VCF/FILE3/"
 
